@@ -12,4 +12,8 @@ Dikarenakan masih dilakukan  pencatatan secara manual, maka  dibuatkan lah aplik
 
 # Flowchart
 ![WhatsApp Image 2022-12-02 at 10 19 17](https://user-images.githubusercontent.com/103571113/205227773-0e06165e-20a9-47ba-bfce-5629d8e1b1a4.jpeg)
+# Perancangan Aplikasi
+![1](https://user-images.githubusercontent.com/103571113/205229125-01815af8-961a-4df5-82fa-a3e64863fc9d.PNG)
+![2](https://user-images.githubusercontent.com/103571113/205229142-dfaf49e8-4512-4196-8279-3aa7a7bfa3b9.PNG)
+
 # DKI.if20c
